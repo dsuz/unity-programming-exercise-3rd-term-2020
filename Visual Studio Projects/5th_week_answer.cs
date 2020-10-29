@@ -3,15 +3,15 @@ using System.Diagnostics;
 
 class Answer
 {
-    //static void Main(string[] args)
-    //{
-    //    Exercise01();
-    //    //Exercise02();
-    //    //Exercise03();
+    static void Main(string[] args)
+    {
+        Exercise01();
+        Exercise02();
+        Exercise03();
 
-    //    Console.Write("Hit Enter to exit...");
-    //    Console.ReadLine();
-    //}
+        Console.Write("Hit Enter to exit...");
+        Console.ReadLine();
+    }
 
     /// <summary>
     /// 素数を判定する。
